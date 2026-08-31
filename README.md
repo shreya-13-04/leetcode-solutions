@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
