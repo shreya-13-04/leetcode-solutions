@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0135-candy) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
