@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
