@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -30,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
