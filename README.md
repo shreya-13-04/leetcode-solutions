@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -49,15 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
@@ -69,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
