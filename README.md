@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -198,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/shreya-13-04/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shreya-13-04/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
@@ -216,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shreya-13-04/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
