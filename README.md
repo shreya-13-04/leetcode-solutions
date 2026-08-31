@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
