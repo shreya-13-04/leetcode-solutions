@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/shreya-13-04/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
