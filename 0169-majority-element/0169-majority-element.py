@@ -1,8 +1,8 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        candidate=None
+    def majorityElement(self, nums: list[int]) -> int:
+        candidate = None
         count=0
-
+        
         for num in nums:
             if count==0:
                 candidate=num
@@ -11,7 +11,6 @@ class Solution:
             else:
                 count-=1
         return candidate
-
 
 
         
