@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/shreya-13-04/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
